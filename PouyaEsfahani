@@ -1,0 +1,3 @@
+I have redesgined and fabricated the new converter. converter has been tested with 30watt input power and worked fine. however, for higher input power, the converter did not work. 
+
+Next, I will change the diodes that may cause the problem with a super fast recovery diode.(Snubber RC circuit parallel to FET may be required in order to reduce the switching ringing) and I will do the testing again and finilize it by November 16th.
